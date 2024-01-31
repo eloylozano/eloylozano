@@ -10,8 +10,8 @@
   <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
  -->
-[![wakatime](https://wakatime.com/badge/user/018d5713-4469-4321-8613-b4c0e8d30dff.svg)]
-(https://wakatime.com/badge/user/018d5713-4469-4321-8613-b4c0e8d30dff.svg)
+
+<a href="https://wakatime.com/@018d5713-4469-4321-8613-b4c0e8d30dff"><img src="https://wakatime.com/badge/user/018d5713-4469-4321-8613-b4c0e8d30dff.svg" alt="Total time coded since Jan 29 2024" /></a>
 
 <a href="https://imgur.com/bCFywWO"><img src="https://i.imgur.com/bCFywWO.jpg" title="source: imgur.com" /></a>
 
