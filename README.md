@@ -52,7 +52,7 @@
   ✌️ &emsp;  I am also a systems administrator<br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: lozanobarrioseloy@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/eloylozano/eloyloozano/issues)
+ <!-- 💬 &emsp; Ask me about anything [here](https://github.com/eloylozano/eloyloozano/issues)-->
 
 </p>
 
