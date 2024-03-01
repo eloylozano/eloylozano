@@ -11,7 +11,7 @@
 </p>
  -->
 
-<a href="https://wakatime.com/@018d5713-4469-4321-8613-b4c0e8d30dff"><img src="https://wakatime.com/badge/user/018d5713-4469-4321-8613-b4c0e8d30dff.svg" alt="Total time coded since Jan 29 2024" /></a>
+<a href="https://wakatime.com/@018d5713-4469-4321-8613-b4c0e8d30dff" target:"_blank"><img src="https://wakatime.com/badge/user/018d5713-4469-4321-8613-b4c0e8d30dff.svg" alt="Total time coded since Jan 29 2024" /></a>
 
 <a href="https://imgur.com/bCFywWO"><img src="https://i.imgur.com/bCFywWO.jpg" title="source: imgur.com" /></a>
 
