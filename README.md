@@ -90,8 +90,6 @@
 <p align="center">
   <a href="https://github.com/eloyloozano">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=eloylozano&repo=ConcesionarioVehiculos&border_color=50d561&bg_color=0D1117&title_color=fff&text_color=8B949E&icon_color=fff" alt="Eloy's Repo"/> 
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eloylozano&repo=Java&border_color=50d561&bg_color=0D1117&title_color=fff&text_color=8B949E&icon_color=fff" alt="Eloy's Repo"/> 
-
   </a>
 </p>
 
