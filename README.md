@@ -25,10 +25,10 @@
  </a>
    -->
   <a href="https://instagram.com/eloyloozano" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="eloyloozano" />
  </a> 
  <a href="https://www.linkedin.com/in/eloylozano/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="eloyloozano"/>
  </a>
  <!-- <a href="" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
@@ -69,7 +69,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mySQL-ffbb28?style=for-the-badge&labelColor=ffbb28&logo=mySQl&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-56c92c?style=for-the-badge&labelColor=green&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/react-04c5cc?style=for-the-badge&labelColor=04c5cc&logo=react&logoColor=04c5cc)
+![React](https://img.shields.io/badge/react-04c5cc?style=for-the-badge&labelColor=04c5cc&logo=react&logoColor=white)
 
 ![Wordpress](https://img.shields.io/badge/wordpress-212121?logo=wordpress&style=for-the-badge)
 ![Joomla!](https://img.shields.io/badge/joomla!-ff6666?logo=joomla&style=for-the-badge)
