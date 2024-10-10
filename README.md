@@ -68,8 +68,8 @@
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mySQL-ffbb28?style=for-the-badge&labelColor=ffbb28&logo=mySQl&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-56c92c?style=for-the-badge&labelColor=white&logo=spring&logoColor=green)
-![React](https://img.shields.io/badge/react-04c5cc?style=for-the-badge&labelColor=white&logo=react&logoColor=04c5cc)
+![Spring](https://img.shields.io/badge/spring-56c92c?style=for-the-badge&labelColor=green&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/react-04c5cc?style=for-the-badge&labelColor=04c5cc&logo=react&logoColor=04c5cc)
 
 ![Wordpress](https://img.shields.io/badge/wordpress-212121?logo=wordpress&style=for-the-badge)
 ![Joomla!](https://img.shields.io/badge/joomla!-ff6666?logo=joomla&style=for-the-badge)
