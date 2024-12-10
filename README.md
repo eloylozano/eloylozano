@@ -12,6 +12,7 @@
  -->
 
 <a href="https://wakatime.com/@018d5713-4469-4321-8613-b4c0e8d30dff" target="_blank"><img src="https://wakatime.com/badge/user/018d5713-4469-4321-8613-b4c0e8d30dff.svg" alt="Total time coded since Jan 29 2024" /></a>
+![](https://komarev.com/ghpvc/?username=eloylozano&color=green&style=flat-square)
 
 <a href="https://imgur.com/a/FcuyHNR"><img src="https://i.imgur.com/E1vCQ63.png" title="source: imgur.com" /></a>
 
