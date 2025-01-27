@@ -91,7 +91,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/eloyloozano">
+  <a href="https://github.com/eloylozano">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=eloylozano&repo=ConcesionarioVehiculos&border_color=50d561&bg_color=0D1117&title_color=fff&text_color=8B949E&icon_color=fff" alt="Eloy's Repo"/> 
   </a>
 </p>
@@ -102,14 +102,14 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/eloyloozano">
+  <a href="https://github.com/eloylozano">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=eloylozano&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D&border=3CD66F&background=2D333A&ring=ABD200&fire=FF6701&currStreakLabel=3CD66F" alt="GitHub Streak" />
 <!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=eloylozano&theme=merko&border=50d461&background=2d333a" alt="Eloy's GitHub streak"/> -->
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/eloyloozano">
+  <a href="https://github.com/eloylozano">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eloylozano&theme=merko" alt="Eloy's GitHub Contribution"/>
   </a>
 </p>
