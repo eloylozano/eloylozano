@@ -91,8 +91,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/eloylozano">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eloylozano&repo=ConcesionarioVehiculos&border_color=50d561&bg_color=0D1117&title_color=fff&text_color=8B949E&icon_color=fff" alt="Eloy's Repo"/> 
+  <a href="https://github.com/eloylozano/ConcesionarioVehiculos">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eloylozano&repo=ConcesionarioVehiculos&border_color=ff756e&bg_color=0D1117&title_color=fff&text_color=8B949E&icon_color=fff" alt="Eloy's Repo"/> 
+  </a>
+  <a href="https://github.com/eloylozano/AppFluence">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eloylozano&repo=AppFluence&border_color=6ee2ff&bg_color=0D1117&title_color=fff&text_color=8B949E&icon_color=fff" alt="Eloy's Repo"/> 
   </a>
 </p>
 
