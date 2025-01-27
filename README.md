@@ -103,7 +103,8 @@
 
 <p align="center">
   <a href="https://github.com/eloyloozano">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=eloylozano&theme=merko&border=50d461&background=2d333a" alt="Eloy's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=eloylozano&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D&border=3CD66F&background=2D333A&ring=ABD200&fire=FF6701&currStreakLabel=3CD66F" alt="GitHub Streak" />
+<!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=eloylozano&theme=merko&border=50d461&background=2d333a" alt="Eloy's GitHub streak"/> -->
   </a>
 </p>
 
