@@ -74,9 +74,11 @@
 ![Symfony](https://img.shields.io/badge/symfony-f9f9f9?style=for-the-badge&labelColor=f9f9f9&logo=symfony&logoColor=000)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&labelColor=yellow&logo=Python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mySQL-ffbb28?style=for-the-badge&labelColor=ffbb28&logo=mySQl&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-fff?style=for-the-badge&labelColor=189c16&logo=mongodb&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-56c92c?style=for-the-badge&labelColor=56c92c&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/react-04c5cc?style=for-the-badge&labelColor=white&logo=react&logoColor=04c5cc)
 ![Node](https://img.shields.io/badge/node.js-383838?style=for-the-badge&labelColor=white&logo=node.js&logoColor=18de57)
+![Next.js](https://img.shields.io/badge/next.js-f9f9f9?style=for-the-badge&labelColor=f9f9f9&logo=next.js&logoColor=252525)
 
 ![Wordpress](https://img.shields.io/badge/wordpress-212121?logo=wordpress&style=for-the-badge)
 ![Joomla!](https://img.shields.io/badge/joomla!-ff6666?logo=joomla&style=for-the-badge)
