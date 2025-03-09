@@ -99,6 +99,9 @@
   <a href="https://github.com/eloylozano/deskify">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=eloylozano&repo=deskify&border_color=37ad43&bg_color=0D1117&title_color=fff&text_color=8B949E&icon_color=fff" alt="Eloy's Repo"/> 
   </a>
+    <a href="https://github.com/eloylozano/pawtopia">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eloylozano&repo=pawtopia&border_color=ba34eb&bg_color=0D1117&title_color=fff&text_color=8B949E&icon_color=fff" alt="Eloy's Repo"/> 
+  </a>
 </p>
 <p align="center">
   <a href="https://github.com/eloylozano/ConcesionarioVehiculos">
