@@ -71,6 +71,7 @@
 ![Typecript](https://img.shields.io/badge/Typescript-187bde?style=for-the-badge&labelColor=white&logo=typescript&logoColor=187bde)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-ca99f7?style=for-the-badge&labelColor=ca99f7&logo=PHP&logoColor=white)
+![Symfony](https://img.shields.io/badge/symfony-f9f9f9?style=for-the-badge&labelColor=f9f9f9&logo=symfony&logoColor=000)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&labelColor=yellow&logo=Python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mySQL-ffbb28?style=for-the-badge&labelColor=ffbb28&logo=mySQl&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-56c92c?style=for-the-badge&labelColor=56c92c&logo=spring&logoColor=white)
