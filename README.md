@@ -50,7 +50,7 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- 💻&emsp; I'm currently working on my final project: <a href="https://github.com/eloylozano/deskify"><b>deskify</b><a/> <br/><br/>
+ 💻&emsp; I'm currently working on my new portfolio: <a href="https://github.com/eloylozano/portfolio.git"><b>Portfolio</b><a/> <br/><br/>
  ❤️&emsp; Love to writing code and learning new features<br/><br/>
   ✌️ &emsp;  I am also a photographer<br/><br/>
  📧&emsp; Reach me anytime: lozanobarrioseloy@gmail.com<br/><br/>
